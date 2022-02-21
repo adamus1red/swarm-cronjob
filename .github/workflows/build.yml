@@ -9,8 +9,8 @@ on:
   pull_request:
 
 env:
-  DOCKERHUB_SLUG: crazymax/swarm-cronjob
-  GHCR_SLUG: ghcr.io/crazy-max/swarm-cronjob
+  DOCKERHUB_SLUG: adamus1red/swarm-cronjob
+  GHCR_SLUG: ghcr.io/adamus1red/swarm-cronjob
 
 jobs:
   validate:
